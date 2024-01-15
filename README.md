@@ -1,6 +1,7 @@
 
+![Portfolio_tlo](https://github.com/GrzegorzKraszewski/GrzegorzKraszewski/assets/141272893/b55b88aa-1075-45cf-a956-925c0be2a7e3)
 
-![AbapDeveloper](https://github.com/GrzegorzKraszewski/GrzegorzKraszewski/assets/141272893/5ce3812a-6d87-4d3a-9bb4-78862d455e44)
+
 
 ### Hi there 👋
 
