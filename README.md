@@ -3,8 +3,8 @@
 
 
 
-### Hi there 👋 Grzegorz Kraszewski
-#### ABAP Developer 
+### Hi there 👋 , Grzegorz Kraszewski
+#### I'm ABAP Developer 
 #### Welcome on my profile!
 <!--
 **GrzegorzKraszewski/GrzegorzKraszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
