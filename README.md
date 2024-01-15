@@ -5,8 +5,7 @@
 
 # Hi there 👋 ,  I'm ABAP Developer 
 ## Welcome on my profile!
-## Skills
-Skills : 
+## Skills  :
 * ABAP
 * ABAP OO
 
