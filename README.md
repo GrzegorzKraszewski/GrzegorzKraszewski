@@ -3,9 +3,9 @@
 
 
 
-### Hi there 👋 , Grzegorz Kraszewski
-#### I'm ABAP Developer 
-#### Welcome on my profile!
+# Hi there 👋 , Grzegorz Kraszewski
+## I'm ABAP Developer 
+## Welcome on my profile!
 
 Skills : ABAP / ABAP OO
 <!--
