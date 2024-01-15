@@ -5,8 +5,10 @@
 
 # Hi there 👋 ,  I'm ABAP Developer 
 ## Welcome on my profile!
+###Skills : 
+* ABAP
+* ABAP OO
 
-###Skills : ABAP / ABAP OO
 <!--
 **GrzegorzKraszewski/GrzegorzKraszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
