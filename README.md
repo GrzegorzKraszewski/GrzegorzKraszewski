@@ -1,6 +1,7 @@
 
 ![Portfolio_tlo](https://github.com/GrzegorzKraszewski/GrzegorzKraszewski/assets/141272893/b55b88aa-1075-45cf-a956-925c0be2a7e3)
 
+![IMG_JA2czarne](https://github.com/GrzegorzKraszewski/GrzegorzKraszewski/assets/141272893/c4d6caf1-c283-4e71-a74f-9a11837d9f5d)
 
 
 # Hi there 👋 ,  I'm ABAP Developer 
