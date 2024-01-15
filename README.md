@@ -3,9 +3,8 @@
 
 
 
-# Hi there 👋 , Grzegorz Kraszewski
-## I'm ABAP Developer 
-### Welcome on my profile!
+# Hi there 👋 ,  I'm ABAP Developer 
+## Welcome on my profile!
 
 
 
