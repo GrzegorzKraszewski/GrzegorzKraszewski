@@ -2,11 +2,11 @@
 ![Portfolio_tlo](https://github.com/GrzegorzKraszewski/GrzegorzKraszewski/assets/141272893/b55b88aa-1075-45cf-a956-925c0be2a7e3)
 
 
-<div align ="center">
+
 # Hi there 👋 , Grzegorz Kraszewski
 ## I'm ABAP Developer 
-## Welcome on my profile!
-</div>
+### Welcome on my profile!
+
 
 
 Skills : ABAP / ABAP OO
